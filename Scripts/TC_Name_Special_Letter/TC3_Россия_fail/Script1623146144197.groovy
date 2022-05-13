@@ -24,11 +24,15 @@ WebUI.click(findTestObject('Object Repository/Page_World  Reuters/a_World'))
 
 WebUI.navigateToUrl('https://www.reuters.com/world/')
 
-WebUI.openBrowser('')
+WebUI.takeScreenshotAsCheckpoint('Screenshot', FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.takeAreaScreenshotAsCheckpoint('', null)
+
+WebUI.navigateToUrl('https://vnexpress.net/')
 
 WebUI.takeScreenshotAsCheckpoint('Screenshot')
 
-WebUI.click(findTestObject('Object Repository/Page_World  Reuters/a_Business'))
+WebUI.takeAreaScreenshotAsCheckpoint('', null)
 
 WebUI.closeBrowser()
 

@@ -1,32 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Basic Test Suite</name>
+   <name>TS_VisualTest</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
-   <numberOfRerun>4</numberOfRerun>
+   <numberOfRerun>1</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>16e35ada-e44c-4215-9957-2aa516377b5b</testSuiteGuid>
+   <testSuiteGuid>714d4d44-0551-45bd-93d9-bc52e5d7bee3</testSuiteGuid>
    <testCaseLink>
-      <guid>6779d5ca-7f92-4553-895c-2ac009f9d107</guid>
+      <guid>1b062b98-6409-481b-ada2-eea68b211fa0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC_Name_Special_Letter/TC1</testCaseId>
+      <testCaseId>Test Cases/TC_Name_Special_Letter/TC3_Россия_fail</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>ab4a7712-f3f7-4640-a446-b36580af87c5</guid>
+      <guid>d8793c7f-a11d-4319-be7e-b052183cd4b7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC_Name_Special_Letter/TC3_Россия_pass</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>d9f3b3f9-ae94-47ac-be5f-942684396637</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/TC006_error</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

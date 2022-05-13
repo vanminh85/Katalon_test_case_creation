@@ -23,4 +23,10 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC_Name_Special_Letter/TC3_Россия_pass</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>6b891369-2200-4b6d-814d-795b58f3b18b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_Name_Special_Letter/TC3_Россия_fail</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>
