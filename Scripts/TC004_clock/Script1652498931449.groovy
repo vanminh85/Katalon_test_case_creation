@@ -17,13 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser(GlobalVariable.URL)
+WebUI.openBrowser('')
 
-WebUI.takeScreenshot()
+WebUI.navigateToUrl('http://time-time.net/timer/digital-clock.php')
 
-WebUI.refresh()
-
-WebUI.refresh()
+WebUI.takeScreenshotAsCheckpoint('clock_number')
 
 WebUI.closeBrowser()
 

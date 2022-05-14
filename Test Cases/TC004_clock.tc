@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC004</name>
+   <name>TC004_clock</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>7524614c-b7bf-4f0e-adff-e593de61ac86</testCaseGuid>
