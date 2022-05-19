@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>TS_VisualTest</name>
+   <name>TS_VisualTest1</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -12,9 +12,9 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>714d4d44-0551-45bd-93d9-bc52e5d7bee3</testSuiteGuid>
    <testCaseLink>
-      <guid>848c27a2-68b2-4c15-b0b7-28a4d66368ab</guid>
+      <guid>7881a288-ca8d-4271-86b6-c9632d28f0e4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC004_clock</testCaseId>
+      <testCaseId>Test Cases/TC004_google</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
