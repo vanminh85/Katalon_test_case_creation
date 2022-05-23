@@ -17,4 +17,10 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC004_ClockWorld</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>929c0d38-1330-4b71-8ab6-918733bff3e7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC004a_ClockWorld</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>
