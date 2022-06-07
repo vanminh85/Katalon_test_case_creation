@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.timeanddate.com/worldclock/')
 
-WebUI.takeScreenshotAsCheckpoint('ScreenShot1')
+WebUI.takeScreenshotAsCheckpoint('ScreenShot2')
 
 WebUI.click(findTestObject('Object Repository/Page_The World Clock  Worldwide/a_Time Zones'))
 
