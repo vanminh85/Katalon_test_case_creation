@@ -29,7 +29,7 @@ WebUI.navigateToUrl('https://www.timeanddate.com/time/')
 
 WebUI.click(findTestObject('Object Repository/Page_Time Overview/a_International Meeting Planner'))
 
-WebUI.takeAreaScreenshot(null)
+WebUI.takeScreenshotAsCheckpoint('ScreenShot1', FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.closeBrowser()
 
