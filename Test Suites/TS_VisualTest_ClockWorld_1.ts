@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Test_Suite_1</name>
+   <name>TS_VisualTest_ClockWorld_1</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,17 +10,17 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>bd26aa8f-9b52-4d92-9a64-a442e7dcdd17</testSuiteGuid>
+   <testSuiteGuid>2c88a14c-1710-4a23-b378-cc150170c4ce</testSuiteGuid>
    <testCaseLink>
-      <guid>df92af84-e760-4ac1-a5bc-e06a0e2eecb7</guid>
+      <guid>515759da-ceb7-4b33-a588-d066d4f4d97e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC001_Profile</testCaseId>
+      <testCaseId>Test Cases/TC004_ClockWorld</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>0ba9395b-02f5-4f69-9022-2b7264990a69</guid>
+      <guid>caab1a5b-3364-4132-b646-d5269f63b941</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC003_fail</testCaseId>
+      <testCaseId>Test Cases/TC004_google</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
