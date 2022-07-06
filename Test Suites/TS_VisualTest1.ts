@@ -15,6 +15,6 @@
       <guid>7881a288-ca8d-4271-86b6-c9632d28f0e4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC004_google</testCaseId>
+      <testCaseId>Test Cases/CheckPoint_Google</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

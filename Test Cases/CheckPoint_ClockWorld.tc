@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC004b_ClockWorld</name>
+   <name>CheckPoint_ClockWorld</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>43324036-71a6-4fdd-96c7-414c4b97755b</testCaseGuid>
+   <testCaseGuid>82f305fb-e376-4399-abd7-30fc421bdb4a</testCaseGuid>
 </TestCaseEntity>

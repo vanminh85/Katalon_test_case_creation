@@ -19,17 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.timeanddate.com/worldclock/')
+WebUI.navigateToUrl('https://www.timeanddate.com/')
 
-WebUI.takeScreenshotAsCheckpoint('ScreenShot3a')
+WebUI.takeElementScreenshotAsCheckpoint('CurrentTime', findTestObject('Page_timeanddate.com/p_Wednesday6 Jul 2022Ho Chi Minh, Vietnam'))
 
-WebUI.click(findTestObject('Object Repository/Page_The World Clock  Worldwide/a_Time Zones'))
-
-WebUI.navigateToUrl('https://www.timeanddate.com/time/')
-
-WebUI.click(findTestObject('Object Repository/Page_Time Overview/a_International Meeting Planner'))
-
-WebUI.takeScreenshotAsCheckpoint('ScreenShot3')
+WebUI.takeElementScreenshot('MainWorldClock', findTestObject('Page_The World Clock  Worldwide/a_Main World Clock'))
 
 WebUI.closeBrowser()
 

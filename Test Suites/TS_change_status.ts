@@ -21,7 +21,7 @@
       <guid>15bfb4ac-3050-46fe-9d4b-e6b6d94ed235</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC004_clock</testCaseId>
+      <testCaseId>Test Cases/Checkpoint_Clock</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>fe17ef4d-e834-4d58-b0b2-b7a0905a7fc2</guid>

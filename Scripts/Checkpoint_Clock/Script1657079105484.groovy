@@ -19,17 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.timeanddate.com/worldclock/')
+WebUI.navigateToUrl('http://time-time.net/timer/digital-clock.php')
 
-WebUI.takeScreenshotAsCheckpoint('ScreenShot3a')
-
-WebUI.click(findTestObject('Object Repository/Page_The World Clock  Worldwide/a_Time Zones'))
-
-WebUI.navigateToUrl('https://www.timeanddate.com/time/')
-
-WebUI.click(findTestObject('Object Repository/Page_Time Overview/a_International Meeting Planner'))
-
-WebUI.takeScreenshotAsCheckpoint('ScreenShot2')
+WebUI.takeScreenshotAsCheckpoint('TimeTime')
 
 WebUI.closeBrowser()
 

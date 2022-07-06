@@ -19,9 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.google.com.vn/')
+WebUI.navigateToUrl('https://www.timeanddate.com/worldclock/')
 
-WebUI.takeScreenshotAsCheckpoint('PageGoogle', FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.takeScreenshotAsCheckpoint('DayTime_b')
 
 WebUI.closeBrowser()
 

@@ -19,9 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://time-time.net/timer/digital-clock.php')
+WebUI.navigateToUrl('https://www.google.com.vn/')
 
-WebUI.takeScreenshotAsCheckpoint('clock_number')
+WebUI.takeScreenshotAsCheckpoint('Google', FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.closeBrowser()
 

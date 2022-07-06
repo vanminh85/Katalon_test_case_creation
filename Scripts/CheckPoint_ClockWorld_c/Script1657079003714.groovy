@@ -21,15 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.timeanddate.com/worldclock/')
 
-WebUI.takeScreenshotAsCheckpoint('ScreenShot2a')
-
-WebUI.click(findTestObject('Object Repository/Page_The World Clock  Worldwide/a_Time Zones'))
-
-WebUI.navigateToUrl('https://www.timeanddate.com/time/')
-
-WebUI.click(findTestObject('Object Repository/Page_Time Overview/a_International Meeting Planner'))
-
-WebUI.takeScreenshotAsCheckpoint('ScreenShot1', FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.takeScreenshotAsCheckpoint('DayTime_c')
 
 WebUI.closeBrowser()
 
