@@ -17,4 +17,28 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/CheckPoint_Google</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>277ada18-36a0-4706-be60-9fde6a4b0330</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Checkpoint_Clock</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f1221e3f-54df-47c0-9a44-1dfa95bf123a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CheckPoint_ClockWorld</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>2ba3cc2e-c3ff-4b47-95f4-26af3c8ac3ab</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CheckPoint_ClockWorld_b</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>dcb99d75-71ac-4cd5-bdf3-26f6f8195da1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CheckPoint_ClockWorld_c</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>
